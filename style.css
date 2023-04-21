@@ -460,6 +460,11 @@ footer p{
         font-size: 15px;
     }
 
+    .form-group{
+        display: block;
+        grid-template-columns: repeat(1, minmax 0);
+    }
+
     .contact-detail{
         flex-direction: column;
     }
