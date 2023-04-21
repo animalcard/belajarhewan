@@ -474,10 +474,3 @@ footer p{
         padding: 8px 24px;
     }
 }
-@media screen and (max-width: 390px) { 
-    .detail-hewan{
-        display: grid;
-        grid-template-columns: repeat(1, minmax(0, 1fr));
-        column-gap: 60px;
-    }
-}
